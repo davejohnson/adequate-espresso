@@ -1,0 +1,13 @@
+{
+  cafes: [
+    {
+      address: 'Vancouver, BC, Canada',
+      name: 'Revolver'
+    }
+// matchstick
+// small victory
+// crema
+// 49th parallel
+// kafka
+  ]
+}
